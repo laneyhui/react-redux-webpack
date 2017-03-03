@@ -35,4 +35,3 @@ react-redux-webpack-boilerplate，redux + redux类前端项目模版
   
 五、发布部署前端资源文件
 
-参考文章 [大公司里怎样开发和部署前端代码](https://github.com/fouber/blog/issues/6)
